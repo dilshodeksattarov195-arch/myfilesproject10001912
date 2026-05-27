@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterfncrypt",
+        "uuid": 4615568,
+        "checksum": "dellr4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
